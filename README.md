@@ -39,7 +39,7 @@ It includes manual testing, basic automation, and bug reporting.
 ## How to run automation scripts
 
 1. Install Selenium:  pip install selenium
-2. Run any script:python open_login.py
+2. Run any script:python login_open_test.py
 
 ---
 
